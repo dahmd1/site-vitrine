@@ -1,0 +1,30 @@
+@media screen and (max-width: 991px) {
+	.top-menu ul, .top-menu ul.top-right {
+		text-align: center;
+		font-size: 12px;
+	}
+	#masthead .site-branding{
+		text-align: center;
+	}
+	#masthead .site-branding{
+		padding:10px 0px 0px 0px;
+	}	
+	.searchbox{
+		float: none;
+		margin:10px auto;
+	}
+	#cta-section .cta-box p{
+		font-size: 20px;
+	}
+	.post-box{
+		margin-bottom:30px;
+	}
+	.single-dload-image{
+		text-align: center;
+		margin-bottom: 40px;
+	}
+    .tinynav { display: block }
+    #pageant { display: none }	
+}
+
+
